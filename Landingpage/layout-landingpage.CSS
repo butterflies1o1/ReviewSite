@@ -1,11 +1,13 @@
 body{
 background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/ob4Z6Pm/ufo-in-outer-space-4k-mov_vkl4es_rs__F0000.png);
-background-size: cover;
+background-size: contain;
+font-family: Helvetica;
 z-index: -100;
 }
 .Backgroundbox{
-width: 99%;
-height: 99%;
+margin-left: 12%;
+width: 75%;
+height: 100%;
 color: white;
 opacity: 0.75;
 background-color: black;
@@ -16,12 +18,10 @@ width: 100%;
 border-bottom: 2px solid #45A29E;
 }
 .Header h1{
-font-family: Helvetica;
 color: #66FCF1;
 }
 .Newsbox{
-padding-top: 1%;
-width: 90%;
+width: 99%;
 height: 500px;
 
 }
@@ -30,11 +30,40 @@ width: 50%;
 height: 100%;
 background-image: url(https://i.gadgets360cdn.com/large/csgo_danger_zone_1544172327959.jpg);
 background-size: cover;
+border: 2px solid #45A29E;
 }
+
 .NewsArticle{
 width: 50%;
-height: 100%;
-float: right;
+height: 40%;
+top: 5%;
 right: 0;
+color: #66FCF1;
+position: absolute;
+}
+.Gamecategories{
+width: 100%;
+height: 25%;
+padding-top: 1%;
+position: absolute;
+
+}
+.FPS{
+width: 30%;
+height: 100%;
+background-color: red;
+position: absolute;
+}
+.RPG{
+width: 30%;
+height: 100%;
+background-color: Brown;
+position: absolute;
+}
+.MMO{
+width: 30%;
+height: 100%;
+right: 0;
+background-color: purple;
 position: absolute;
 }
