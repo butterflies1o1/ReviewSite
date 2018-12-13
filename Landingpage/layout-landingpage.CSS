@@ -12,6 +12,29 @@ background-color: black;
 position: absolute;
 }
 .Header{
-width: 100%; 
+width: 100%;
+border-bottom: 2px solid #45A29E;
+}
+.Header h1{
+font-family: Helvetica;
 color: #66FCF1;
+}
+.Newsbox{
+padding-top: 1%;
+width: 90%;
+height: 500px;
+
+}
+.Newspicture{
+width: 50%;
+height: 100%;
+background-image: url(https://i.gadgets360cdn.com/large/csgo_danger_zone_1544172327959.jpg);
+background-size: cover;
+}
+.NewsArticle{
+width: 50%;
+height: 100%;
+float: right;
+right: 0;
+position: absolute;
 }
