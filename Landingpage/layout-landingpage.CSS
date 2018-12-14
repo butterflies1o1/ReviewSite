@@ -3,6 +3,7 @@ background-image: url(http://dslv9ilpbe7p1.cloudfront.net/9alc7OVZlkkLW_-027Vq5Q
 background-size: cover;
 font-family: Helvetica;
 z-index: -100;
+color: white;
 }
 a{
 text-decoration: none;
@@ -45,7 +46,7 @@ position: absolute;
 }
 .Newsbox{
 width: 99%;
-height: 40%;
+height: 35%;
 
 }
 .Newspicture{
@@ -65,53 +66,231 @@ color: white;
 text-align: justify;
 position: absolute;
 }
+.Gamecategories h2{
+left: 3.0%;
+top: 0;
+z-index: 100;
+border-right: 2px solid white;
+border-left: 2px solid white;
+position: absolute;
+}
 .Gamecategories{
 width: 100%;
 height: 25%;
-padding-top: 1%;
+top: 48%;
 position: absolute;
-
 }
 .FPS{
-width: 25%;
+width: 15%;
 height: 100%;
 position: absolute;
-left: 5%;
+top: 19%;
+left: 3%;
 background-color: black;
 }
+.FPS h3{
+position: absolute;
+bottom: 1%;
+left: 20%;
+}
 .FPS a{
-width: 50%;
+width: 100%;
 height: 75%;
-left: 25%;
 background-image: url(https://pmcvariety.files.wordpress.com/2018/05/battlefield-5.jpg?w=1000&h=563&crop=1);
 background-size: cover;
 position: absolute;
 }
 .MMORPG{
-width: 25%;
+top: 18%;
+width: 15%;
 height: 100%;
-right: 37%;
+left: 23%;
 background-color: black;
 position: absolute;
+}
+.MMORPG h3{
+position: absolute;
+bottom: 1%;
+left: 35%;
 }
 .MMORPG a{
-width: 50%;
+width: 100%;
 height: 75%;
-left: 25%;
 position: absolute;
 background-image: url(https://blznav.akamaized.net/img/games/cards/card-world-of-warcraft-54576e6364584e35.jpg);
+background-size: cover;
 }
 .Sports{
-width: 30%;
+top: 19%;
+width: 15%;
 height: 100%;
-right: 5%;
+left: 42%;
 background-color: black;
 position: absolute;
 }
+.Sports h3{
+position: absolute;
+bottom: 1%;
+left: 38%;
+}
 .Sports a{
-width: 50%;
+width: 100%;
 height: 75%;
-left: 25%;
 position: absolute;
 background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yiUPqv5kiMQCkIQlQPEzxOwwx9R_QVtytf3cBbs_hJFAwaFI);
+background-size: cover;
+}
+.Strategy{
+top: 19%;
+width: 15%;
+height: 100%;
+right: 23%;
+background-color: black;
+position: absolute;
+}
+.Strategy h3{
+position: absolute;
+bottom: 1%;
+left: 38%;
+}
+.Strategy a{
+width: 100%;
+height: 75%;
+position: absolute;
+background-image: url(https://consolecommand.org/wp-content/uploads/2017/12/Hearts-Of-Iron-4-Cover.jpg);
+background-size: cover;
+}
+.Simulations{
+top: 19%;
+width: 15%;
+height: 100%;
+right: 3%;
+background-color: black;
+position: absolute;
+}
+.Simulations h3{
+position: absolute;
+bottom: 1%;
+left: 33%;
+}
+.Simulations a{
+width: 100%;
+height: 75%;
+position: absolute;
+background-image: url(https://gpstatic.com/acache/37/28/1/uk/t620x300-1f7a9261cddfdf3601abac2b6878c79a.jpg);
+background-size: cover;
+}
+.Consoles{
+width: 100%;
+height: 25%;
+top: 80%;
+position: absolute;
+}
+.Consoles h2{
+left: 3.0%;
+top: 0;
+z-index: 100;
+border-right: 2px solid white;
+border-left: 2px solid white;
+position: absolute;
+}
+.Xbox{
+width: 15%;
+height: 100%;
+position: absolute;
+top: 19%;
+left: 3%;
+background-color: black;
+}
+.Xbox h3{
+position: absolute;
+bottom: 1%;
+left: 20%;
+}
+.Xbox a{
+width: 100%;
+height: 75%;
+background-image: url(https://compass-ssl.xbox.com/assets/a9/d0/a9d03015-2760-43df-8056-d23af1969289.gif?n=xbox_facebook_200x200.gif);
+background-size: cover;
+position: absolute;
+}
+.PS4{
+top: 18%;
+width: 15%;
+height: 100%;
+left: 23%;
+background-color: black;
+position: absolute;
+}
+.PS4 h3{
+position: absolute;
+bottom: 1%;
+left: 35%;
+}
+.PS4 a{
+width: 100%;
+height: 75%;
+position: absolute;
+background-image: url(https://i.pinimg.com/originals/ff/e1/8b/ffe18bc07f4987eed129481171683dad.jpg);
+background-size: cover;
+}
+.Nintendoswitch{
+top: 19%;
+width: 15%;
+height: 100%;
+left: 42%;
+background-color: black;
+position: absolute;
+}
+.Nintendoswitch h3{
+position: absolute;
+bottom: 1%;
+left: 38%;
+}
+.Nintendoswitch a{
+width: 100%;
+height: 75%;
+position: absolute;
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Nintendo_Switch_logo%2C_square.png/600px-Nintendo_Switch_logo%2C_square.png);
+background-size: cover;
+}
+.PC{
+top: 19%;
+width: 15%;
+height: 100%;
+right: 23%;
+background-color: black;
+position: absolute;
+}
+.PC h3{
+position: absolute;
+bottom: 1%;
+left: 38%;
+}
+.PC a{
+width: 100%;
+height: 75%;
+position: absolute;
+background-image: url(http://www.volnapc.com/uploads/3/0/9/1/30918989/pc-game-logo-blacksolid.png?298);
+background-size: cover;
+}
+.Miniconsoles{
+top: 19%;
+width: 15%;
+height: 100%;
+right: 3%;
+background-color: black;
+position: absolute;
+}
+.Miniconsoles h3{
+position: absolute;
+bottom: 1%;
+left: 33%;
+}
+.Miniconsoles a{
+width: 100%;
+height: 75%;
+position: absolute;
+background-image: url(https://cdn.images.dailystar.co.uk/dynamic/184/photos/269000/620x/SNES-Classic-Mini-UK-Pre-Order-NEWS-for-Amazon-Argos-Toys-R-Us-Tesco-and-Nintendo-Stock-626517.jpg);
+background-size: cover;
 }
