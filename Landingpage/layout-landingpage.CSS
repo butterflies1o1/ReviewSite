@@ -8,7 +8,6 @@ a{
 text-decoration: none;
 color: white;
 }
-
 .Mainbox{
 width: 75%;
 margin-left: 12%;
@@ -54,7 +53,7 @@ width: 50%;
 height: 100%;
 background-image: url(https://i.gadgets360cdn.com/large/csgo_danger_zone_1544172327959.jpg);
 background-size: cover;
-border: 2px solid #45A29E;
+border: 2px solid white;
 }
 
 .NewsArticle{
@@ -78,7 +77,7 @@ width: 25%;
 height: 100%;
 position: absolute;
 left: 5%;
-background-color: yellow;
+background-color: black;
 }
 .FPS a{
 width: 50%;
@@ -88,29 +87,31 @@ background-image: url(https://pmcvariety.files.wordpress.com/2018/05/battlefield
 background-size: cover;
 position: absolute;
 }
-.RPG{
+.MMORPG{
 width: 25%;
 height: 100%;
 right: 37%;
-background-color: Brown;
+background-color: black;
 position: absolute;
 }
-.RPG a{
+.MMORPG a{
 width: 50%;
 height: 75%;
 left: 25%;
 position: absolute;
 background-image: url(https://blznav.akamaized.net/img/games/cards/card-world-of-warcraft-54576e6364584e35.jpg);
 }
-.MMO{
-width: 25%;
+.Sports{
+width: 30%;
 height: 100%;
-right: 2%;
-background-color: purple;
+right: 5%;
+background-color: black;
 position: absolute;
 }
-.MMO a{
+.Sports a{
 width: 50%;
 height: 75%;
+left: 25%;
 position: absolute;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5yiUPqv5kiMQCkIQlQPEzxOwwx9R_QVtytf3cBbs_hJFAwaFI);
 }
