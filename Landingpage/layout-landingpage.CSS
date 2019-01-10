@@ -1,6 +1,7 @@
 body{
 background-image: url(http://dslv9ilpbe7p1.cloudfront.net/9alc7OVZlkkLW_-027Vq5Q_store_header_image);
 background-size: cover;
+margin: 0 auto;
 font-family: Helvetica;
 z-index: -100;
 color: white;
