@@ -173,7 +173,7 @@ position: absolute;
 .Simulations h3{
 position: absolute;
 bottom: 1%;
-left: 33%;
+left: 60px;
 }
 .Simulations a{
 width: 100%;
@@ -227,7 +227,7 @@ position: absolute;
 .PS4 h3{
 position: absolute;
 bottom: 1%;
-left: 44%;
+left: 90px;
 }
 .PS4 a{
 width: 100%;
@@ -247,7 +247,7 @@ position: absolute;
 .Nintendoswitch h3{
 position: absolute;
 bottom: 1%;
-left: 27%;
+left: 35px;
 }
 .Nintendoswitch a{
 width: 100%;
@@ -267,7 +267,7 @@ position: absolute;
 .PC h3{
 position: absolute;
 bottom: 1%;
-left: 38%;
+left: 94px;
 }
 .PC a{
 width: 100%;
@@ -287,7 +287,7 @@ position: absolute;
 .Miniconsoles h3{
 position: absolute;
 bottom: 1%;
-left: 33%;
+left: 49px;
 }
 .Miniconsoles a{
 width: 100%;
