@@ -116,7 +116,7 @@ position: absolute;
 background-image: url(https://pbs.twimg.com/profile_images/983803209947873281/Mlll9kHm.jpg);
 background-size: cover;
 }
-.Strategy{
+.BF5{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -124,12 +124,12 @@ right: 23%;
 background-color: black;
 position: absolute;
 }
-.Strategy h3{
+.BF5 h3{
 position: absolute;
 bottom: 1%;
-left: 38%;
+left: 26%;
 }
-.Strategy a{
+.BF5 a{
 width: 100%;
 height: 75%;
 position: absolute;
@@ -153,6 +153,6 @@ left: 33%;
 width: 100%;
 height: 75%;
 position: absolute;
-background-image: url(https://gpstatic.com/acache/37/28/1/uk/t620x300-1f7a9261cddfdf3601abac2b6878c79a.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Destiny_2_%28artwork%29.jpg/220px-Destiny_2_%28artwork%29.jpg);
 background-size: cover;
 }
