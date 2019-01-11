@@ -56,7 +56,7 @@ width: 50%;
 height: 100%;
 background-image: url(https://i.gadgets360cdn.com/large/csgo_danger_zone_1544172327959.jpg);
 background-size: cover;
-border: 2px solid white;
+border: 2px solid none;
 }
 
 .NewsArticle{
