@@ -134,7 +134,7 @@ position: absolute;
 background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Black_Desert_Online_Logo_%28En%29.png/220px-Black_Desert_Online_Logo_%28En%29.png);
 background-size: cover;
 }
-.Destiny2{
+.final{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -142,15 +142,15 @@ right: 3%;
 background-color: black;
 position: absolute;
 }
-.Destiny2 h3{
+.final h3{
 position: absolute;
-bottom: -1.5%;
-left: 33%;
+bottom: -2%;
+left: 18%;
 }
-.Destiny2 a{
+.final a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Destiny_2_%28artwork%29.jpg/220px-Destiny_2_%28artwork%29.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/FF_XV_cover_art.jpg/220px-FF_XV_cover_art.jpg);
 background-size: cover;
 }
