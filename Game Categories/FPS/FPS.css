@@ -44,10 +44,8 @@ position: absolute;
 }
 .Gamecategories h2{
 left: 3.0%;
-top: 0;
+top: -13%;
 z-index: 100;
-border-right: 2px solid white;
-border-left: 2px solid white;
 position: absolute;
 }
 .Gamecategories{
@@ -66,12 +64,12 @@ background-color: black;
 }
 .CSGO h3{
 position:absolute;
-bottom: 1%;
+bottom: -1.5%;
 left: 35%;
 }
 .CSGO a{
 width: 100%;
-height: 75%;
+height: 80%;
 background-image: url(https://res.cloudinary.com/teepublic/image/private/s--KCylOcQQ--/t_Preview/b_rgb:484849,c_limit,f_jpg,h_630,q_90,w_630/v1485228171/production/designs/1137363_1.jpg);
 background-size: cover;
 position: absolute;
@@ -86,12 +84,12 @@ position: absolute;
 }
 .BO4 h3{
 position: absolute;
-bottom: 1%;
+bottom: -1.5%;
 left: 35%;
 }
 .BO4 a{
 width: 100%;
-height: 75%;
+height: 80%;
 position: absolute;
 background-image: url(https://images-na.ssl-images-amazon.com/images/I/81I0WY2lD4L._AC_SX215_.jpg);
 background-size: cover;
@@ -106,12 +104,12 @@ position: absolute;
 }
 .OW h3{
 position: absolute;
-bottom: 1%;
+bottom: -1.5%;
 left: 28%;
 }
 .OW a{
 width: 100%;
-height: 75%;
+height: 80%;
 position: absolute;
 background-image: url(https://pbs.twimg.com/profile_images/983803209947873281/Mlll9kHm.jpg);
 background-size: cover;
@@ -126,17 +124,17 @@ position: absolute;
 }
 .BF5 h3{
 position: absolute;
-bottom: 1%;
+bottom: -1.5%;
 left: 26%;
 }
 .BF5 a{
 width: 100%;
-height: 75%;
+height: 80%;
 position: absolute;
 background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Battlefield_V_standard_edition_box_art.jpg/220px-Battlefield_V_standard_edition_box_art.jpg);
 background-size: cover;
 }
-.Simulations{
+.Destiny2{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -144,14 +142,14 @@ right: 3%;
 background-color: black;
 position: absolute;
 }
-.Simulations h3{
+.Destiny2 h3{
 position: absolute;
-bottom: 1%;
+bottom: -1.5%;
 left: 33%;
 }
-.Simulations a{
+.Destiny2 a{
 width: 100%;
-height: 75%;
+height: 80%;
 position: absolute;
 background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Destiny_2_%28artwork%29.jpg/220px-Destiny_2_%28artwork%29.jpg);
 background-size: cover;
