@@ -74,7 +74,7 @@ background-image: url(https://ih1.redbubble.net/image.527157846.6720/flat,550x55
 background-size: cover;
 position: absolute;
 }
-.BO4{
+.wow{
 top: 18%;
 width: 15%;
 height: 100%;
@@ -82,19 +82,19 @@ left: 23%;
 background-color: black;
 position: absolute;
 }
-.BO4 h3{
+.wow h3{
 position: absolute;
-bottom: -1.5%;
+bottom: -7%;
 left: 35%;
 }
-.BO4 a{
+.wow a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://images-na.ssl-images-amazon.com/images/I/81I0WY2lD4L._AC_SX215_.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Warlords_of_Draenor_cover.jpg/220px-Warlords_of_Draenor_cover.jpg);
 background-size: cover;
 }
-.OW{
+.elder{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -102,19 +102,19 @@ left: 42.5%;
 background-color: black;
 position: absolute;
 }
-.OW h3{
+.elder h3{
 position: absolute;
-bottom: -1.5%;
-left: 28%;
+bottom: -7%;
+left: 18%;
 }
-.OW a{
+.elder a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://pbs.twimg.com/profile_images/983803209947873281/Mlll9kHm.jpg);
+background-image: url(https://static.tvtropes.org/pmwiki/pub/images/eso_logo_962.jpg);
 background-size: cover;
 }
-.BF5{
+.black{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -122,16 +122,16 @@ right: 23%;
 background-color: black;
 position: absolute;
 }
-.BF5 h3{
+.black h3{
 position: absolute;
-bottom: -1.5%;
+bottom: -7%;
 left: 26%;
 }
-.BF5 a{
+.black a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Battlefield_V_standard_edition_box_art.jpg/220px-Battlefield_V_standard_edition_box_art.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Black_Desert_Online_Logo_%28En%29.png/220px-Black_Desert_Online_Logo_%28En%29.png);
 background-size: cover;
 }
 .Destiny2{
