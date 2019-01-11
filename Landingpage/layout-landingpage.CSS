@@ -93,7 +93,7 @@ background-color: black;
 .FPS h3{
 position: absolute;
 bottom: 1%;
-left: 20%;
+left: 85px;
 }
 .FPS a{
 width: 100%;
@@ -113,7 +113,7 @@ position: absolute;
 .MMORPG h3{
 position: absolute;
 bottom: 1%;
-left: 35%;
+left: 66px;
 }
 .MMORPG a{
 width: 100%;
@@ -133,7 +133,7 @@ position: absolute;
 .Sports h3{
 position: absolute;
 bottom: 1%;
-left: 38%;
+left: 37%;
 }
 .Sports a{
 width: 100%;
@@ -153,7 +153,7 @@ position: absolute;
 .Strategy h3{
 position: absolute;
 bottom: 1%;
-left: 38%;
+left: 74px;
 }
 .Strategy a{
 width: 100%;
