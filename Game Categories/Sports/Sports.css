@@ -54,7 +54,7 @@ height: 25%;
 top: 48%;
 position: absolute;
 }
-.coast{
+.fifa{
 width: 15%;
 height: 100%;
 position: absolute;
@@ -62,19 +62,19 @@ top: 19%;
 left: 3%;
 background-color: black;
 }
-.coast h3{
+.fifa h3{
 position:absolute;
 bottom: -1.5%;
-left: 20%;
+left: 36%;
 }
-.coast a{
+.fifa a{
 width: 100%;
 height: 80%;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Planet_coaster_box.png/220px-Planet_coaster_box.png);
+background-image: url(https://www.mobygames.com/images/covers/l/509457-fifa-19-ultimate-edition-xbox-one-front-cover.jpg);
 background-size: cover;
 position: absolute;
 }
-.truck{
+.nhl{
 top: 18%;
 width: 15%;
 height: 100%;
@@ -82,19 +82,19 @@ left: 23%;
 background-color: black;
 position: absolute;
 }
-.truck h3{
+.nhl h3{
 position: absolute;
-bottom: -6.9%;
-left: 30.5%;
+bottom: -1.5%;
+left: 36%;
 }
-.truck a{
+.nhl a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Euro_Truck_Simulator_2_cover.jpg/220px-Euro_Truck_Simulator_2_cover.jpg);
+background-image: url(https://images-na.ssl-images-amazon.com/images/I/71j-ehR4axL._AC_SX215_.jpg);
 background-size: cover;
 }
-.sims{
+.nfl{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -102,19 +102,19 @@ left: 42.5%;
 background-color: black;
 position: absolute;
 }
-.sims h3{
+.nfl h3{
 position: absolute;
 bottom: -1.5%;
-left: 37%;
+left: 19%;
 }
-.sims a{
+.nfl a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://www.instant-gaming.com/images/products/272/271x377/272.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Madden19cover.jpeg/220px-Madden19cover.jpeg);
 background-size: cover;
 }
-.plane{
+.nba{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -122,19 +122,19 @@ right: 23%;
 background-color: black;
 position: absolute;
 }
-.plane h3{
+.nba h3{
 position: absolute;
 bottom: -1.5%;
 left: 30%;
 }
-.plane a{
+.nba a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://images-na.ssl-images-amazon.com/images/I/71b-0QUcxqL._AC_SX215_.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/NBA_2K19_cover_art.jpg/220px-NBA_2K19_cover_art.jpg);
 background-size: cover;
 }
-.space{
+.wii{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -142,15 +142,15 @@ right: 3%;
 background-color: black;
 position: absolute;
 }
-.space h3{
+.wii h3{
 position: absolute;
-bottom: -6.9%;
-left: 26%;
+bottom: -1.5%;
+left: 28%;
 }
-.space a{
+.wii a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcLQPP7Zyv_91.OJg5DDtR7EiBWyDpW7drh1foN4YrdH3OWjI.MM0Uw7DG_8Q81vtLj.czoO0d6PAWkm4wUPupgm908to58VjIcwGrReuSpVS3c.sck4K9rnnlN9n_U9lmirC.VsnHWdAAMHOcu8kVck.7VKszoZBdNNJFiyGpvhg-&w=200&h=300&format=jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Wii_Sports_Europe.jpg/220px-Wii_Sports_Europe.jpg);
 background-size: cover;
 }
