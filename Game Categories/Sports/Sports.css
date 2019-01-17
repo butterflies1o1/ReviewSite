@@ -1,3 +1,156 @@
 body{
-margin: 0 auto;
+background-image: url(https://i1.wp.com/www.danieljenkinsacademy.com/wp-content/uploads/2017/11/abstract-black-and-white-web-background-loop-4k-4096x2304_ekxvj0tf-g__F0000.png);
+background-size:cover;
+font-family: Helvetica;
+color: white;
+}
+.mainbox{
+width: 75%;
+height: 100%;
+margin-left: 12%;
+top: 0%;
+position: absolute;
+}
+
+
+.Header{
+width: 100%;
+height: 7%;
+border-bottom: 2px solid white;
+}
+
+.background{
+width: 100%;
+height: 100%;
+position: absolute;
+background-color: black;
+opacity: 0.75;
+
+z-index: -100;
+}
+.Logo a{
+width: 3.0%;
+height: 4.5%;
+top: 1.5%;
+left: 0.5%;
+border-radius: 50%;
+position: absolute;
+background-image: url(https://news.northeastern.edu/wp-content/uploads/2018/08/KingHuskyHead.jpg);
+background-size: cover;
+}
+.Header h1{
+left: 4.5%;
+position: absolute;
+}
+.Gamecategories h2{
+left: 3.0%;
+top: -13%;
+z-index: 100;
+position: absolute;
+}
+.Gamecategories{
+width: 100%;
+height: 25%;
+top: 48%;
+position: absolute;
+}
+.coast{
+width: 15%;
+height: 100%;
+position: absolute;
+top: 19%;
+left: 3%;
+background-color: black;
+}
+.coast h3{
+position:absolute;
+bottom: -1.5%;
+left: 20%;
+}
+.coast a{
+width: 100%;
+height: 80%;
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Planet_coaster_box.png/220px-Planet_coaster_box.png);
+background-size: cover;
+position: absolute;
+}
+.truck{
+top: 18%;
+width: 15%;
+height: 100%;
+left: 23%;
+background-color: black;
+position: absolute;
+}
+.truck h3{
+position: absolute;
+bottom: -6.9%;
+left: 30.5%;
+}
+.truck a{
+width: 100%;
+height: 80%;
+position: absolute;
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Euro_Truck_Simulator_2_cover.jpg/220px-Euro_Truck_Simulator_2_cover.jpg);
+background-size: cover;
+}
+.sims{
+top: 19%;
+width: 15%;
+height: 100%;
+left: 42.5%;
+background-color: black;
+position: absolute;
+}
+.sims h3{
+position: absolute;
+bottom: -1.5%;
+left: 37%;
+}
+.sims a{
+width: 100%;
+height: 80%;
+position: absolute;
+background-image: url(https://www.instant-gaming.com/images/products/272/271x377/272.jpg);
+background-size: cover;
+}
+.plane{
+top: 19%;
+width: 15%;
+height: 100%;
+right: 23%;
+background-color: black;
+position: absolute;
+}
+.plane h3{
+position: absolute;
+bottom: -1.5%;
+left: 30%;
+}
+.plane a{
+width: 100%;
+height: 80%;
+position: absolute;
+background-image: url(https://images-na.ssl-images-amazon.com/images/I/71b-0QUcxqL._AC_SX215_.jpg);
+background-size: cover;
+}
+.space{
+top: 19%;
+width: 15%;
+height: 100%;
+right: 3%;
+background-color: black;
+position: absolute;
+}
+.space h3{
+position: absolute;
+bottom: -6.9%;
+left: 26%;
+}
+.space a{
+width: 100%;
+height: 80%;
+position: absolute;
+background-image: url(https://images-eds-ssl.xboxlive.com/image?url=8Oaj9Ryq1G1_p3lLnXlsaZgGzAie6Mnu24_PawYuDYIoH77pJ.X5Z.MqQPibUVTcLQPP7Zyv_91.OJg5DDtR7EiBWyDpW7drh1foN4YrdH3OWjI.MM0Uw7DG_8Q81vtLj.czoO0d6PAWkm4wUPupgm908to58VjIcwGrReuSpVS3c.sck4K9rnnlN9n_U9lmirC.VsnHWdAAMHOcu8kVck.7VKszoZBdNNJFiyGpvhg-&w=200&h=300&format=jpg);
+background-size: cover;
 }
