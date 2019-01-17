@@ -65,12 +65,12 @@ background-color: black;
 .coast h3{
 position:absolute;
 bottom: -1.5%;
-left: 35%;
+left: 20%;
 }
 .coast a{
 width: 100%;
 height: 80%;
-background-image: url(https://res.cloudinary.com/teepublic/image/private/s--KCylOcQQ--/t_Preview/b_rgb:484849,c_limit,f_jpg,h_630,q_90,w_630/v1485228171/production/designs/1137363_1.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Planet_coaster_box.png/220px-Planet_coaster_box.png);
 background-size: cover;
 position: absolute;
 }
