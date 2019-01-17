@@ -54,7 +54,7 @@ height: 25%;
 top: 48%;
 position: absolute;
 }
-.fifa{
+.sid{
 width: 15%;
 height: 100%;
 position: absolute;
@@ -62,19 +62,19 @@ top: 19%;
 left: 3%;
 background-color: black;
 }
-.fifa h3{
+.sid h3{
 position:absolute;
 bottom: -1.5%;
-left: 36%;
+left: 22%;
 }
-.fifa a{
+.sid a{
 width: 100%;
 height: 80%;
-background-image: url(https://www.mobygames.com/images/covers/l/509457-fifa-19-ultimate-edition-xbox-one-front-cover.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Civilization_VI_cover_art.jpg/220px-Civilization_VI_cover_art.jpg);
 background-size: cover;
 position: absolute;
 }
-.nhl{
+.x{
 top: 18%;
 width: 15%;
 height: 100%;
@@ -82,19 +82,19 @@ left: 23%;
 background-color: black;
 position: absolute;
 }
-.nhl h3{
+.x h3{
 position: absolute;
 bottom: -1.5%;
 left: 36%;
 }
-.nhl a{
+.x a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://images-na.ssl-images-amazon.com/images/I/71j-ehR4axL._AC_SX215_.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/XCOM_2_cover_art.jpg/220px-XCOM_2_cover_art.jpg);
 background-size: cover;
 }
-.nfl{
+.craft{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -102,19 +102,19 @@ left: 42.5%;
 background-color: black;
 position: absolute;
 }
-.nfl h3{
+.craft h3{
 position: absolute;
-bottom: -1.5%;
-left: 19%;
+bottom: -6.5%;
+left: 18%;
 }
-.nfl a{
+.craft a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Madden19cover.jpeg/220px-Madden19cover.jpeg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/2/20/StarCraft_II_-_Box_Art.jpg/220px-StarCraft_II_-_Box_Art.jpg);
 background-size: cover;
 }
-.nba{
+.stone{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -122,19 +122,19 @@ right: 23%;
 background-color: black;
 position: absolute;
 }
-.nba h3{
+.stone h3{
 position: absolute;
 bottom: -1.5%;
-left: 30%;
+left: 26.3%;
 }
-.nba a{
+.stone a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/NBA_2K19_cover_art.jpg/220px-NBA_2K19_cover_art.jpg);
+background-image: url(http://www.vgmonline.net/wp-content/uploads/hearthstone1.jpg);
 background-size: cover;
 }
-.wii{
+.eu{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -142,15 +142,15 @@ right: 3%;
 background-color: black;
 position: absolute;
 }
-.wii h3{
+.eu h3{
 position: absolute;
-bottom: -1.5%;
+bottom: -6.5%;
 left: 28%;
 }
-.wii a{
+.eu a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Wii_Sports_Europe.jpg/220px-Wii_Sports_Europe.jpg);
+background-image: url(https://s3.gaming-cdn.com/images/products/227/271x377/europa-universalis-iv-cover.jpg);
 background-size: cover;
 }
