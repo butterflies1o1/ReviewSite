@@ -304,8 +304,9 @@ background-size: cover;
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
-  position: relative;
+  width: 50%;
+  max-height: 15%;
+  position: absolute;
   margin: auto;
 }
 
@@ -345,9 +346,8 @@ background-size: cover;
 .text {
   color: #f2f2f2;
   font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
+  
+  bottom: 0%;
   width: 100%;
   text-align: center;
 }
