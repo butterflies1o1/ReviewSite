@@ -1,3 +1,156 @@
 body{
-  margin: 0; auto;
+background-image: url(https://i1.wp.com/www.danieljenkinsacademy.com/wp-content/uploads/2017/11/abstract-black-and-white-web-background-loop-4k-4096x2304_ekxvj0tf-g__F0000.png);
+background-size:cover;
+font-family: Helvetica;
+color: white;
+}
+.mainbox{
+width: 75%;
+height: 100%;
+margin-left: 12%;
+top: 0%;
+position: absolute;
+}
+
+
+.Header{
+width: 100%;
+height: 7%;
+border-bottom: 2px solid white;
+}
+
+.background{
+width: 100%;
+height: 100%;
+position: absolute;
+background-color: black;
+opacity: 0.75;
+
+z-index: -100;
+}
+.Logo a{
+width: 3.0%;
+height: 4.5%;
+top: 1.5%;
+left: 0.5%;
+border-radius: 50%;
+position: absolute;
+background-image: url(https://news.northeastern.edu/wp-content/uploads/2018/08/KingHuskyHead.jpg);
+background-size: cover;
+}
+.Header h1{
+left: 4.5%;
+position: absolute;
+}
+.Gamecategories h2{
+left: 3.0%;
+top: -13%;
+z-index: 100;
+position: absolute;
+}
+.Gamecategories{
+width: 100%;
+height: 25%;
+top: 48%;
+position: absolute;
+}
+.Sm{
+width: 15%;
+height: 100%;
+position: absolute;
+top: 19%;
+left: 3%;
+background-color: black;
+}
+.Sm h3{
+position:absolute;
+bottom: -1.5%;
+left: 35%;
+}
+.Sm a{
+width: 100%;
+height: 80%;
+background-image: url(https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiJ1ZrFxPTfAhXCkywKHSs2C5MQjRx6BAgBEAU&url=https%3A%2F%2Fwww.smashbros.com%2Fen_US%2F&psig=AOvVaw0ZzWBdRgf3spkWjzAgMe0C&ust=1547804817634819);
+background-size: cover;
+position: absolute;
+}
+.Th{
+top: 18%;
+width: 15%;
+height: 100%;
+left: 23%;
+background-color: black;
+position: absolute;
+}
+.Th h3{
+position: absolute;
+bottom: -1.5%;
+left: 35%;
+}
+.Th a{
+width: 100%;
+height: 80%;
+position: absolute;
+background-image: url();
+background-size: cover;
+}
+.Su{
+top: 19%;
+width: 15%;
+height: 100%;
+left: 42.5%;
+background-color: black;
+position: absolute;
+}
+.Su h3{
+position: absolute;
+bottom: -1.5%;
+left: 28%;
+}
+.Su a{
+width: 100%;
+height: 80%;
+position: absolute;
+background-image: url();
+background-size: cover;
+}
+.Ma{
+top: 19%;
+width: 15%;
+height: 100%;
+right: 23%;
+background-color: black;
+position: absolute;
+}
+.Ma h3{
+position: absolute;
+bottom: -1.5%;
+left: 26%;
+}
+.Ma a{
+width: 100%;
+height: 80%;
+position: absolute;
+background-image: url();
+background-size: cover;
+}
+.Sp{
+top: 19%;
+width: 15%;
+height: 100%;
+right: 3%;
+background-color: black;
+position: absolute;
+}
+.Sp h3{
+position: absolute;
+bottom: -1.5%;
+left: 33%;
+}
+.Sp a{
+width: 100%;
+height: 80%;
+position: absolute;
+background-image: url();
+background-size: cover;
 }

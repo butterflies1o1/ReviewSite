@@ -156,7 +156,7 @@ left: 74px;
 width: 100%;
 height: 75%;
 position: absolute;
-background-image: url(https://consolecommand.org/wp-content/uploads/2017/12/Hearts-Of-Iron-4-Cover.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Civilization_VI_cover_art.jpg/220px-Civilization_VI_cover_art.jpg);
 background-size: cover;
 }
 .Simulations{
@@ -176,7 +176,7 @@ left: 60px;
 width: 100%;
 height: 75%;
 position: absolute;
-background-image: url(https://gpstatic.com/acache/37/28/1/uk/t620x300-1f7a9261cddfdf3601abac2b6878c79a.jpg);
+background-image: url(https://www.instant-gaming.com/images/products/272/271x377/272.jpg);
 background-size: cover;
 }
 .Consoles{
@@ -304,8 +304,9 @@ background-size: cover;
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
-  position: relative;
+  width: 50%;
+  max-height: 15%;
+  position: absolute;
   margin: auto;
 }
 
@@ -345,9 +346,8 @@ background-size: cover;
 .text {
   color: #f2f2f2;
   font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
+
+  bottom: 0%;
   width: 100%;
   text-align: center;
 }
