@@ -75,7 +75,7 @@ background-image: url(https://steamcdn-a.akamaihd.net/steam/apps/252490/header.j
 background-size: cover;
 position: absolute;
 }
-.Th{
+.anno1800{
 top: 18%;
 width: 15%;
 height: 100%;
@@ -83,19 +83,19 @@ left: 23%;
 background-color: black;
 position: absolute;
 }
-.Th h3{
+.anno1800 h3{
 position: absolute;
 bottom: -1.5%;
 left: 35%;
 }
-.Th a{
+.anno1800 a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url();
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Anno_1800_cover.png/220px-Anno_1800_cover.png);
 background-size: cover;
 }
-.Su{
+.totalwarsaga{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -103,19 +103,19 @@ left: 42.5%;
 background-color: black;
 position: absolute;
 }
-.Su h3{
+.totalwarsaga h3{
 position: absolute;
 bottom: -1.5%;
 left: 28%;
 }
-.Su a{
+.totalwarsaga a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Super_Mario_Odyssey.jpg/220px-Super_Mario_Odyssey.jpg);
+background-image: url(https://hb.imgix.net/cc7d971abadb5e6dce4d36a7818e3504ed8e2ba0.jpg?auto=compress,format&fit=crop&h=353&w=616&s=b1b08950a704a62e7b813e3eff7e6822);
 background-size: cover;
 }
-.Ma{
+.battletech{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -123,19 +123,19 @@ right: 23%;
 background-color: black;
 position: absolute;
 }
-.Ma h3{
+.battletech h3{
 position: absolute;
 bottom: -1.5%;
 left: 26%;
 }
-.Ma a{
+.battletech a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://images.samsclubresources.com/is/image/samsclub/0004549659047_A?$img_size_380x380$);
+background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/0/08/BattleTech_cover.jpg/220px-BattleTech_cover.jpg);
 background-size: cover;
 }
-.Sp{
+.frostpunk{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -143,15 +143,15 @@ right: 3%;
 background-color: black;
 position: absolute;
 }
-.Sp h3{
+.frostpunk h3{
 position: absolute;
 bottom: -1.5%;
 left: 33%;
 }
-.Sp a{
+.frostpunk a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url();
+background-image: url(https://cdn.cdon.com/media-dynamic/images/product/digitalgame/pcdownload/image421/frostpunk-44454674-frntl.png);
 background-size: cover;
 }
