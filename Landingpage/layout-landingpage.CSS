@@ -57,14 +57,22 @@ height: 100%;
 border: 2px solid none;
 
 }
-
+.NewsArticle h2{
+left: 2%;
+position: absolute;
+}
 .NewsArticle{
-width: 50%;
+width: 58%;
 height: 20%;
 top: 6.2%;
 right: 0;
 color: white;
 text-align: justify;
+position: absolute;
+}
+.articletextbox{
+margin: 2%;
+top:25%;
 position: absolute;
 }
 .Gamecategories h2{
@@ -312,7 +320,8 @@ background-size: cover;
 
 /* Hide the images by default */
 .mySlides {
-  display: none;
+  display: block;
+  position: absolute;
 }
 
 /* Next & previous buttons */
@@ -321,7 +330,7 @@ background-size: cover;
   position: absolute;
   top: 50%;
   width: auto;
-  margin-top: -22px;
+  margin-top: 75px;
   padding: 16px;
   color: white;
   font-weight: bold;
@@ -333,7 +342,7 @@ background-size: cover;
 
 /* Position the "next button" to the right */
 .next {
-  right: 0;
+  right: 15%;
   border-radius: 3px 0 0 3px;
 }
 
