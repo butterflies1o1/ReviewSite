@@ -1,5 +1,5 @@
 body{
-background-image: url(https://i1.wp.com/www.danieljenkinsacademy.com/wp-content/uploads/2017/11/abstract-black-and-white-web-background-loop-4k-4096x2304_ekxvj0tf-g__F0000.png);
+background-image: url(http://backgroundcheckall.com/wp-content/uploads/2017/12/playstation-background-2.png);
 background-size:cover;
 font-family: Helvetica;
 color: white;
@@ -55,7 +55,7 @@ height: 25%;
 top: 48%;
 position: absolute;
 }
-.Godofwar{
+.ps1{
 width: 15%;
 height: 100%;
 position: absolute;
@@ -63,19 +63,19 @@ top: 19%;
 left: 3%;
 background-color: black;
 }
-.Godofwar h3{
+.ps1 h3{
 position:absolute;
 bottom: -1.5%;
-left: 28%;
+left: 24%;
 }
-.Godofwar a{
+.ps1 a{
 width: 100%;
 height: 80%;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/God_of_War_4_cover.jpg/220px-God_of_War_4_cover.jpg);
+background-image: url(https://cdn.images.dailystar.co.uk/dynamic/184/photos/497000/281x351/1474497.jpg);
 background-size: cover;
 position: absolute;
 }
-.Spiderman{
+.ps2{
 top: 18%;
 width: 15%;
 height: 100%;
@@ -83,19 +83,19 @@ left: 23%;
 background-color: black;
 position: absolute;
 }
-.Spiderman h3{
+.ps2 h3{
 position: absolute;
 bottom: -1.5%;
-left: 28%;
+left: 26%;
 }
-.Spiderman a{
+.ps2 a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Spider-Man_PS4_cover.jpg/220px-Spider-Man_PS4_cover.jpg);
+background-image: url(https://amp.businessinsider.com/images/57fbbc7f8109eef7018b497e-320-240.png);
 background-size: cover;
 }
-.Horizonzerodawn{
+.ps3{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -103,19 +103,19 @@ left: 42.5%;
 background-color: black;
 position: absolute;
 }
-.Horizonzerodawn h3{
+.ps3 h3{
 position: absolute;
 bottom: -1.5%;
-left: 11.5%;
+left: 23%;
 }
-.Horizonzerodawn a{
+.ps3 a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://images-na.ssl-images-amazon.com/images/I/91rbkXJmAvL.jpg);
+background-image: url(http://images2.fanpop.com/images/photos/3100000/Black-PS3-playstation-3-3148236-1280-1024.jpg);
 background-size: cover;
 }
-.Bloodborn{
+.ps4{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -123,19 +123,20 @@ right: 23%;
 background-color: black;
 position: absolute;
 }
-.Bloodborn h3{
+.ps4 h3{
 position: absolute;
 bottom: -1.5%;
-left: 26%;
+left: 22.5%;
 }
-.Bloodborn a{
+.ps4 a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Bloodborne_Cover_Wallpaper.jpg/220px-Bloodborne_Cover_Wallpaper.jpg);
+background-image: url(https://cdn.vox-cdn.com/uploads/chorus_image/image/61013847/jbareham_180822_0800_0085.0.jpg);
 background-size: cover;
+
 }
-.Detroitbecomehuman{
+.pro{
 top: 19%;
 width: 15%;
 height: 100%;
@@ -143,15 +144,15 @@ right: 3%;
 background-color: black;
 position: absolute;
 }
-.Detroitbecomehuman h3{
+.pro h3{
 position: absolute;
 bottom: -1.5%;
-left: 2%;
+left: 15%;
 }
-.Detroitbecomehuman a{
+.pro a{
 width: 100%;
 height: 80%;
 position: absolute;
-background-image: url(http://pm1.narvii.com/6860/a5063d66d24846d3672c9b049a6159b8a9b35097r1-350-219v2_00.jpg);
+background-image: url(https://i.ebayimg.com/00/s/NjQ1WDY1MQ==/z/MEkAAOSwkY9bdTvk/$_86.JPG);
 background-size: cover;
 }
