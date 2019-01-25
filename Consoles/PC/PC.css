@@ -17,10 +17,12 @@ height: 35%;
 
 }
 .Newspicture{
-width: 50%;
+width: 43%;
 height: 100%;
 border: 2px solid none;
-
+background-image: url(https://static.gamespot.com/uploads/screen_kubrick/mig/7/7/6/1/2117761-169_resident_evil_raccoon_city_gameplay_pc_052312_montage.jpg);
+background-size: cover;
+z-index: 100;
 }
 .NewsArticle h2{
 left: 2%;

@@ -17,10 +17,12 @@ height: 35%;
 
 }
 .Newspicture{
-width: 50%;
+width: 43%;
 height: 100%;
 border: 2px solid none;
-
+background-image: url(https://4playernetwork.com/static/media/uploads/blog/featured/featured-nintendo-switch.jpg);
+background-size: cover;
+z-index: 100;
 }
 .NewsArticle h2{
 left: 2%;
