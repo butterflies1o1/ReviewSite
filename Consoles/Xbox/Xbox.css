@@ -11,7 +11,36 @@ margin-left: 12%;
 top: 0%;
 position: absolute;
 }
+.Newsbox{
+width: 99%;
+height: 35%;
 
+}
+.Newspicture{
+width: 43%;
+height: 100%;
+border: 2px solid none;
+background-image: url(https://images.indianexpress.com/2017/06/xbox-one-x-main.jpg);
+background-size: cover;
+}
+.NewsArticle h2{
+left: 2%;
+position: absolute;
+}
+.NewsArticle{
+width: 58%;
+height: 20%;
+top: 6.2%;
+right: 0;
+color: white;
+text-align: justify;
+position: absolute;
+}
+.articletextbox{
+margin: 2%;
+top:25%;
+position: absolute;
+}
 
 .Header{
 width: 100%;
