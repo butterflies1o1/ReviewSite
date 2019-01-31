@@ -1,12 +1,16 @@
 body{
 margin: 0 auto;
 }
+a{
+text-decoration: none;
+color: white;
+}
 .Footer{
 position: absolute;
 width: 75%;
 height: 15%;
 left: 12.0%;
-bottom: -40%;
+bottom: -15%;
 background-color: black;
 border-top: 2px solid white;
 }

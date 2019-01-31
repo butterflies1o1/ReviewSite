@@ -10,6 +10,9 @@ a{
 text-decoration: none;
 color: white;
 }
+a:hover{
+color: grey; 
+}
 .Backgroundbox{
 width: 100%;
 height: 130%;
@@ -44,6 +47,19 @@ background-size: cover;
 .Header h1{
 color: white;
 left: 4.5%;
+position: absolute;
+}
+.newsbutton{
+position: absolute;
+top: 1.5%;
+width: 10%;
+height: 4%;
+right: 0;
+border-left: 2px solid white;
+}
+.newsbutton h2{
+top: -35%;
+left: 5%;
 position: absolute;
 }
 .Newsbox{
@@ -230,7 +246,7 @@ position: absolute;
 .PS4 h3{
 position: absolute;
 bottom: 1%;
-left: 90px;
+left: 26.5%;
 }
 .PS4 a{
 width: 100%;
@@ -250,13 +266,17 @@ position: absolute;
 .Nintendoswitch h3{
 position: absolute;
 bottom: 1%;
-left: 35px;
+left: 31%;
 }
 .Nintendoswitch a{
 width: 100%;
 height: 75%;
 position: absolute;
+<<<<<<< HEAD
 background-image: url(https://tinyurl.com/y7emosmc);
+=======
+background-image: url(https://res.cloudinary.com/teepublic/image/private/s--Ef0RTLTL--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1464821055/production/designs/530557_1.jpg);
+>>>>>>> 6ec6c9eab3e6d2e4178c9d8c21735e4f613bd69d
 background-size: cover;
 }
 .PC{

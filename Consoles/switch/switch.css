@@ -11,7 +11,37 @@ margin-left: 12%;
 top: 0%;
 position: absolute;
 }
+.Newsbox{
+width: 99%;
+height: 35%;
 
+}
+.Newspicture{
+width: 43%;
+height: 100%;
+border: 2px solid none;
+background-image: url();
+background-size: cover;
+z-index: 100;
+}
+.NewsArticle h2{
+left: 2%;
+position: absolute;
+}
+.NewsArticle{
+width: 58%;
+height: 20%;
+top: 6.2%;
+right: 0;
+color: white;
+text-align: justify;
+position: absolute;
+}
+.articletextbox{
+margin: 2%;
+top:25%;
+position: absolute;
+}
 
 .Header{
 width: 100%;
@@ -86,7 +116,7 @@ position: absolute;
 .supernintendo h3{
 position: absolute;
 bottom: -1.5%;
-left: 8%;
+left: 19.5%;
 }
 .supernintendo a{
 width: 100%;
@@ -106,7 +136,7 @@ position: absolute;
 .gamecube h3{
 position: absolute;
 bottom: -1.5%;
-left: 6%;
+left: 27%;
 }
 .gamecube a{
 width: 100%;
@@ -126,7 +156,7 @@ position: absolute;
 .wii h3{
 position: absolute;
 bottom: -1.5%;
-left: 10%;
+left: 41%;
 }
 .wii a{
 width: 100%;
@@ -146,7 +176,7 @@ position: absolute;
 .nintendoswitch h3{
 position: absolute;
 bottom: -1.5%;
-left: 30%;
+left: 16%;
 }
 .nintendoswitch a{
 width: 100%;
