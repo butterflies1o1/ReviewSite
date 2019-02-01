@@ -168,6 +168,7 @@ background-size: cover;
 .mySlides {
   display: block;
   position: absolute;
+}
 
 /* Next & previous buttons */
 .prev, .next {
